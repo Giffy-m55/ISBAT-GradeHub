@@ -1,2 +1,2 @@
-# ISBAT-GradeHub
+#GradeHub
 An academia app
